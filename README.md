@@ -17,10 +17,10 @@
 
 ## Modules
 * [Week 1](src/modules/2021/Week1)
-* 🔒[Week 2]()
-* 🔒[Week 3]()
-* 🔒[Week 4]()
-* 🔒[Week 5]() 
+* 🔒[Week 2](.)
+* 🔒[Week 3](.)
+* 🔒[Week 4](.)
+* 🔒[Week 5](.) 
 
 ## Feedback
 At Core Code, we love to keep co-creating the experience with you. Please [fill this form](https://aplica.typeform.com/to/oCxv63iP) to tell us more about your experience.
