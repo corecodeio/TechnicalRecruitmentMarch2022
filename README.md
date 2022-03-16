@@ -7,10 +7,8 @@
 <h1 align="center">Technical Recruitment Bootcamp - March 2022</h1>
 
 ## Introduction
-<p>Welcome to the Technical Recruitment Bootcamp guide, here you will find the different modules, schedule, recordings and interesting links for this bootcamp, we wish you the best.</p>
-
-## How to use this guide
-<p>Feel free to browse the different sections of this guide. We recommend you start by observing the schedule. After that it is recommended that you look at the "Modules" section, this is the most important part of this guide, within each week you will find the topics that you will be learning, as well as the necessary links, help material and a description for what you will learn through the week.</p>
+<p>Welcome to the Technical Recruitment Bootcamp!</p>
+<p>We will begin at a high level and then dig deep into technical roles and terms 🤖 Feel free to browse the different sections of this guide. Every week you will unlock new topics and challenge. Ready for the adventure?</p>
 
 ## Glossary
 <p> We've started out an introductory Glossary for everyone, it covers mostly the first 2 modules.</p>
@@ -19,19 +17,16 @@
 
 ## Modules
 * [Week 1](src/modules/2021/Week1)
-* [Week 2](src/modules/2021/Week2)
-* [Week 3](src/modules/2021/Week3)
-* [Week 4](src/modules/2021/Week4)
-* [Week 5](src/modules/2021/Week5) 
+* 🔒[Week 2]()
+* 🔒[Week 3]()
+* 🔒[Week 4]()
+* 🔒[Week 5]() 
 
 ## Feedback
-At Core Code, we love to keep co-creating the experience with you. Please [fill this form](https://aplica.typeform.com/to/ATFFeduD) to tell us more about your experience.
+At Core Code, we love to keep co-creating the experience with you. Please [fill this form](https://aplica.typeform.com/to/oCxv63iP) to tell us more about your experience.
 
-## Schedule
-Please reach out to your Slack Workspace to ask for the calendar link.
-
-## Recordings
-Please reach out to your Slack Workspace to ask for the link to recordings.
+## Schedule, Recordings, Files
+Please reach out to your Slack Workspace main channel for any question regarding these topics.
 
 ## Requested by you
 In case you request for any other sources of anything of your interest, we will be posting them [here](src/interesting).
