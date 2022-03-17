@@ -10,17 +10,17 @@
 <p>Welcome to the Technical Recruitment Bootcamp!</p>
 <p>We will begin at a high level and then dig deep into technical roles and terms 🤖 Feel free to browse the different sections of this guide. Every week you will unlock new topics and challenge. Ready for the adventure?</p>
 
-## Glossary
-<p> This is an example of a Glossary, including some terms from the first sessions:</p>
-
-* [Glossary](src/introGlossary.md)
-
 ## Modules
 * [Week 1](src/modules/2021/Week1)
 * 🔒Week 2
 * 🔒Week 3
 * 🔒Week 4
 * 🔒Week 5 
+
+## Glossary
+<p> This is an example of a Glossary, including some terms from the first sessions:</p>
+
+* [Glossary](src/introGlossary.md)
 
 ## Feedback
 At Core Code, we love to keep co-creating the experience with you. Please [fill this form](https://aplica.typeform.com/to/oCxv63iP) to tell us more about your experience.
