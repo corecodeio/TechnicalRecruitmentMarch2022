@@ -24,7 +24,7 @@ Participation (80%, with a notice), Glosary Compleition (15 terms), Test Complei
 * 🔒Week 5 
 
 ## Glossary
-<p> This is an example of a Glossary, including some terms from the first sessions:</p>
+<p> This is an example of the Glossary you need to deliver by the end of the program, including some terms from the first session terms as an example:</p>
 
 * [Glossary](src/introGlossary.md)
 
