@@ -11,7 +11,7 @@
 <p>We will begin at a high level and then dig deep into technical roles and terms 🤖 Feel free to browse the different sections of this guide. Every week you will unlock new topics and challenge. Ready for the adventure?</p>
 
 ## Glossary
-<p> We've started out an introductory Glossary for everyone, it covers mostly the first 2 modules.</p>
+<p> This is an example of a Glossary, including some terms from the first sessions:</p>
 
 * [Glossary](src/introGlossary.md)
 
