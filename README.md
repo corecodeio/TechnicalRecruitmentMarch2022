@@ -12,7 +12,8 @@
 
  **Certification requirements**
 
-Participation (80%, with a notice), Glosary Compleition (15 terms), Test Compleition (>70% scores), Final Presentation
+Participation (80%, with a notice), Glosary Compleition (15 terms), 
+Test Compleition (>70% scores), Final Presentation
 
 </p>
 
