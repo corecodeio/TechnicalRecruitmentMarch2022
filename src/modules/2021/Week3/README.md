@@ -1,7 +1,7 @@
-<h1 align="center">Week 3 - Defining our Tech Roles</h1>
+<h1 align="center">Week 3 - Deep Dives: Data and Product Roles and Scrum</h1>
 
 ## Week description 🏁
-<p>On these sessions we will be exploring Tech Roles that you need to hire in your company, and how they relate to all you've learned in the past weeks!</p>
+<p>We're diving into !</p>
 
 ## Topics 📚
 * Integrating all our knowledge into a single role requirement
@@ -16,11 +16,8 @@
 * Experience
 
 ## Week Slides 💻
-* [Tech Roles Activity Definition](https://docs.google.com/presentation/d/1-paSXER3AjA2G9y0au2wjOLoOXHaAxOE50DSiDr30sQ/edit?usp=sharing)
+* [BI, AI, DS, DE, UX and PM Deep Dives](https://docs.google.com/presentation/d/15X75IcNReBIpT0lEw1DOHQpu0vM0l7JItrmXWlSWNBE/edit#slide=id.g11f8bc29c90_1_44)
 * [QA Overview](https://drive.google.com/file/d/1n6SD7zqUx1E97a6BDWe5T2vKK-H4L32t/view?usp=sharing)
 
-## Activities
-
-* We'll add your presentations after we're done right here!
 
 ## Week links 🔗
