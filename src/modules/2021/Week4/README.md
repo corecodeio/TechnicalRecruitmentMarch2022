@@ -1,22 +1,17 @@
-<h1 align="center">Week 4 - Sourcing and Process design</h1>
+<h1 align="center">Week 4 - DevOps, Interview Practice and Role Design</h1>
 
 ## Week description 🏁
-<p>Ready to explore some hiring processes from your own and other tech company's? On this week, we will be working on hiring processes and interview practice. Let's hire the best talent! </p>
+<p>This week we're digging deeper into defining roles! We're also going to be looking at putting our technical knowledge to the test with some interview practice for roles! And a final Deep Dive into the DevOps roles! </p>
 
 ## Topics 📚
-* Sourcing
-* Recruitment process stages 
-  - Your company's process
-  - Other company's processes  
- * Guidelines for Final Project Presentation
+* DevOps Deep Dive
+* Requirement Design
+* Requirement Drafting challenge 
+* Interview Practice Challenge
 
 ## Week Slides 💻
-* [Sourcing and Process Design](https://docs.google.com/presentation/d/1bkhnm2AtcF5Ae92YXU4QX99DkXoQ4L2q9qdeRFaDx_Y/edit?usp=sharing)
-* [Process Design Workshop](https://docs.google.com/presentation/d/1d0IgpqYi0bXrfDquAG7IAAAysfIPgipG94fWAxSrUmo/edit?usp=sharing)
 
-## Week activities 🎉
-* [Sourcing Challenges](https://jamboard.google.com/d/1ysXhocaCar_XMqM_pK4A6M6hym1fnGoG3p4uofzc2wo/edit?usp=sharing)
-* [Process Mapping](https://jamboard.google.com/d/1SJn9owN03e0hB2N-xNpKIGpTNIb56xeWBOlhL13P6wA/edit?usp=sharing)
+* [Requirement Design and Interview Practice](https://docs.google.com/presentation/d/1d0IgpqYi0bXrfDquAG7IAAAysfIPgipG94fWAxSrUmo/edit?usp=sharing)
 
 
 ## Week sources 🔗
