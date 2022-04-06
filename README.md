@@ -21,7 +21,7 @@ Test Compleition (>70% scores), Final Presentation
 * [Week 1](src/modules/2021/Week1)
 * [Week 2](src/modules/2021/Week2)
 * [Week 3](src/modules/2021/Week3)
-* 🔒Week 4
+* [Week 4](src/modules/2021/Week4)
 * 🔒Week 5 
 
 ## Glossary
