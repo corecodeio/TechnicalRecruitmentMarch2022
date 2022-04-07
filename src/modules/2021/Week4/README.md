@@ -12,6 +12,7 @@
 ## Week Slides 💻
 
 * [Requirement Design and Interview Practice](https://docs.google.com/presentation/d/1d0IgpqYi0bXrfDquAG7IAAAysfIPgipG94fWAxSrUmo/edit?usp=sharing)
+* [QA Testing](https://drive.google.com/file/d/1a76TMzAaIrqqu9eocWOQomgI4T9XoxGB/view?usp=sharing)
 
 
 ## Week sources 🔗
