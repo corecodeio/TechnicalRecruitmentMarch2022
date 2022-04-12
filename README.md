@@ -22,7 +22,7 @@ Test Compleition (>70% scores), Final Presentation
 * [Week 2](src/modules/2021/Week2)
 * [Week 3](src/modules/2021/Week3)
 * [Week 4](src/modules/2021/Week4)
-* 🔒Week 5 
+* [Week 5](src/modules/2021/Week5)
 
 ## Glossary
 <p> This is an example of the Glossary you need to deliver by the end of the program, including some terms from the first session terms as an example:</p>
